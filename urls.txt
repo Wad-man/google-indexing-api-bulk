@@ -1,1 +1,8 @@
-//  Add your URLs here
+http://welhome.ru/gorodskaya-nedvizhimost/arenda-kvartir-sever
+http://welhome.ru/gorodskaya-nedvizhimost/arenda-kvartir-severo-vostok
+http://welhome.ru/gorodskaya-nedvizhimost/arenda-kvartir-zapad
+http://welhome.ru/gorodskaya-nedvizhimost/arenda-kvartir-center
+http://welhome.ru/gorodskaya-nedvizhimost/arenda-kvartir-yug
+http://welhome.ru/gorodskaya-nedvizhimost/arenda-kvartir-yugo-zapad
+http://welhome.ru/gorodskaya-nedvizhimost/arenda-kvartir-vostok
+http://welhome.ru/gorodskaya-nedvizhimost/arenda-kvartir-severo-zapad
